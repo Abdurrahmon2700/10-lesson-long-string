@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 500px;
+  height: 100vh;
+  margin: 0 auto;
+  border: 2px solid red;
+}
+
+form {
+  padding: 10px;
+  text-align: center;
+}
+
+
+ul {
+  text-align: center;
+  list-style: none;
+  padding: 0;
+  
+}
